@@ -1,10 +1,10 @@
 [
     {
         "Name": "Customer 1",
-        "Key": "abd26785e9cef8d1000",
-        "Valid": "60",
+        "Key": "abd26785e9cef8d1",
+        "Valid": "1",
         "InfoMessage": "Welcome",
-        "Expiration": "2026-03-20"
+        "Expiration": "2026-01-26"
     },
     {
         "Name": "Customer 2",
